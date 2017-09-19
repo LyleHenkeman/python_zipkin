@@ -1,0 +1,5 @@
+wsgiref
+pyramid
+requests
+pyramid_zipkin
+flask

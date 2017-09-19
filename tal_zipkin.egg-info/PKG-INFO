@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: tal-zipkin
+Version: 0.1
+Summary: Python wrappers to perform distributed tracing on services
+Home-page: https://github.com/TAKEALOT/tal-zipkin
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,6 @@
+setup.py
+tal_zipkin.egg-info/PKG-INFO
+tal_zipkin.egg-info/SOURCES.txt
+tal_zipkin.egg-info/dependency_links.txt
+tal_zipkin.egg-info/requires.txt
+tal_zipkin.egg-info/top_level.txt
